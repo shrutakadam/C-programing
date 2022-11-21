@@ -10,6 +10,7 @@ main()
   }
   printf("Fact=%d",fact);
   add();
+  printf("\n Welcome");
 }
 void add()
 {
